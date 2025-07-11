@@ -1,0 +1,2529 @@
+{
+  "visualization": {
+    "cytoscape": {
+      "elements": [
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/config/db.js:connectDB",
+            "label": "connectDB",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/config/db.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+            "label": "signUpWithEmail",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithEmail",
+            "label": "signInWithEmail",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:openGoogleAuthWindow",
+            "label": "openGoogleAuthWindow",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+            "label": "signUpWithGoogle",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+            "label": "signInWithGoogle",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:openGithubAuthWindow",
+            "label": "openGithubAuthWindow",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+            "label": "signUpWithGithub",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+            "label": "signInWithGithub",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signOutUser",
+            "label": "signOutUser",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+            "label": "createPostHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getAllPostsHandler",
+            "label": "getAllPostsHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getFeaturedPostsHandler",
+            "label": "getFeaturedPostsHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByCategoryHandler",
+            "label": "getPostByCategoryHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler",
+            "label": "getLatestPostsHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByIdHandler",
+            "label": "getPostByIdHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:updatePostHandler",
+            "label": "updatePostHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:deletePostByIdHandler",
+            "label": "deletePostByIdHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:connectToRedis",
+            "label": "connectToRedis",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "label": "getRedisClient",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/tests/utils/helper-objects.js:createPostObject",
+            "label": "createPostObject",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/tests/utils/helper-objects.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/tests/utils/helper-objects.js:createRequestObject",
+            "label": "createRequestObject",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/tests/utils/helper-objects.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "label": "isRedisEnabled",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+            "label": "retrieveDataFromCache",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "label": "storeDataInCache",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+            "label": "deleteDataFromCache",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler",
+            "label": "cacheHandler",
+            "file": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js",
+            "type": "function",
+            "language": "javascript"
+          },
+          "classes": "node-function lang-javascript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/blog-feed.tsx:onClick",
+            "label": "onClick",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/blog-feed.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/category-pill.tsx:getSelectedColor",
+            "label": "getSelectedColor",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/category-pill.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx:FeaturedPostCard",
+            "label": "FeaturedPostCard",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx:onClick",
+            "label": "onClick",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/hero.tsx:hero",
+            "label": "hero",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/hero.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/modal.tsx:onClick",
+            "label": "onClick",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/modal.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/post-card.tsx:PostCard",
+            "label": "PostCard",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/post-card.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/scroll-to-top.tsx:ScrollToTop",
+            "label": "ScrollToTop",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/scroll-to-top.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/skeletons/post-card-skeleton.tsx:PostCardSkeleton",
+            "label": "PostCardSkeleton",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/skeletons/post-card-skeleton.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+            "label": "ThemeToggle",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:toggleTheme",
+            "label": "toggleTheme",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/ui/skeleton.tsx:Skeleton",
+            "label": "Skeleton",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/components/ui/skeleton.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/footer-layout.tsx:footer",
+            "label": "footer",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/footer-layout.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/header-layout.tsx:onClick",
+            "label": "onClick",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/header-layout.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/lib/utils.ts:cn",
+            "label": "cn",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/lib/utils.ts",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function lang-typescript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleImageSelect",
+            "label": "handleImageSelect",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:isValidCategory",
+            "label": "isValidCategory",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleInputChange",
+            "label": "handleInputChange",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCategoryClick",
+            "label": "handleCategoryClick",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleselector",
+            "label": "handleselector",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCheckboxChange",
+            "label": "handleCheckboxChange",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:validateFormData",
+            "label": "validateFormData",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+            "label": "handleSubmit",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:Asterisk",
+            "label": "Asterisk",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:onClick",
+            "label": "onClick",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx:getPostById",
+            "label": "getPostById",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signin-page.tsx:onSubmit",
+            "label": "onSubmit",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signin-page.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signup-page.tsx:onSubmit",
+            "label": "onSubmit",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signup-page.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/category-colors.ts:getCategoryColors",
+            "label": "getCategoryColors",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/category-colors.ts",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function lang-typescript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/format-post-time.tsx:formatPostTime",
+            "label": "formatPostTime",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/format-post-time.tsx",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+            "label": "createSlug",
+            "file": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts",
+            "type": "function",
+            "language": "typescript"
+          },
+          "classes": "node-function lang-typescript"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+            "line": 52
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getAllPostsHandler->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getAllPostsHandler",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "line": 66
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getFeaturedPostsHandler->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getFeaturedPostsHandler",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "line": 76
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "line": 103
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled->/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "line": 6
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "line": 10
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache->/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "line": 13
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "line": 21
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache->/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "line": 24
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+            "line": 28
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache->/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+            "line": 31
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler->/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+            "source": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler",
+            "target": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+            "line": 6
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx:FeaturedPostCard->/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+            "source": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx:FeaturedPostCard",
+            "target": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+            "line": 13
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/components/post-card.tsx:PostCard->/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+            "source": "/tmp/gitprobe_a1su8qt6/frontend/src/components/post-card.tsx:PostCard",
+            "target": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+            "line": 10
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCategoryClick->/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:isValidCategory",
+            "source": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCategoryClick",
+            "target": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:isValidCategory",
+            "line": 48
+          },
+          "classes": "edge-call"
+        },
+        {
+          "data": {
+            "id": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit->/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:validateFormData",
+            "source": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+            "target": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:validateFormData",
+            "line": 98
+          },
+          "classes": "edge-call"
+        }
+      ]
+    },
+    "summary": {
+      "total_nodes": 58,
+      "total_edges": 16,
+      "unresolved_calls": 150
+    }
+  },
+  "functions": [
+    {
+      "name": "connectDB",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/config/db.js",
+      "line_start": 3,
+      "line_end": 21,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function connectDB() {\n  try {\n    mongoose.connect(MONGODB_URI);\n  } catch (err) {\n    console.error(err.message);\n    process.exit(1);\n  }\n\n  const dbConnection = mongoose.connection;\n\n  dbConnection.once('open', () => {\n    console.log(`Database connected: ${MONGODB_URI}`);\n  });\n\n  dbConnection.on('error', (err) => {\n    console.error(`connection error: ${MONGODB_URI}`);\n  });\n  return;\n}",
+      "display_name": null
+    },
+    {
+      "name": "signUpWithEmail",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 12,
+      "line_end": 48,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "signUpWithEmail = async (req, res, next) => {\n  try {\n    const { name, email, password } = req.body;\n    if (!name || !email || !password) {\n      throw new Error('All fields are required.');\n    }\n    const isExisitsUser = await User.findOne({ email });\n    if (isExisitsUser) {\n      throw new Error('User already exists.');\n    }\n    const hashedPassword = await hash(password, 10);\n    const newUser = await User.create({ name, email, password: hashedPassword });\n    const accessToken = sign({ name, _id: newUser._id }, process.env.JWT_SECRET, {\n      expiresIn: process.env.ACCESS_TOKEN_EXPIRES_IN,\n    });\n    const refreshToken = sign({ name, _id: newUser._id }, process.env.JWT_SECRET, {\n      expiresIn: process.env.REFRESH_TOKEN_EXPIRES_IN,\n    });\n    res.cookie('access_token', accessToken, accessCookieOptions);\n    res.cookie('refresh_token', refreshToken, refreshCookieOptions);\n    res.status(HTTP_STATUS.OK).json({\n      success: true,\n      message: RESPONSE_MESSAGES.USERS.SIGNED_UP,\n      user: {\n        name: name,\n        id: newUser._id,\n      },\n      accessToken,\n      refreshToken,\n    });\n  } catch (error) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({\n      success: false,\n      message: error.message,\n    });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "signInWithEmail",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 51,
+      "line_end": 99,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "signInWithEmail = async (req, res, next) => {\n  try {\n    const { email, password } = req.body;\n    if (!email || !password) {\n      throw new Error('Both email and password are required');\n    }\n    const isUserExists = await User.findOne({ email });\n    if (!isUserExists) {\n      throw new Error('Email does not exist');\n    }\n    let accessToken;\n    let refreshToken;\n    if (isUserExists && compareSync(password, isUserExists.password)) {\n      accessToken = sign(\n        { name: isUserExists.name, _id: isUserExists._id },\n        process.env.JWT_SECRET,\n        {\n          expiresIn: process.env.ACCESS_TOKEN_EXPIRES_IN,\n        }\n      );\n      refreshToken = sign(\n        { name: isUserExists.name, _id: isUserExists._id },\n        process.env.JWT_SECRET,\n        {\n          expiresIn: process.env.REFRESH_TOKEN_EXPIRES_IN,\n        }\n      );\n      res.cookie('access_token', accessToken, accessCookieOptions);\n      res.cookie('refresh_token', refreshToken, refreshCookieOptions);\n    } else {\n      throw new Error('Invalid password');\n    }\n    res.status(HTTP_STATUS.OK).json({\n      success: true,\n      user: {\n        name: isUserExists.name,\n        _id: isUserExists._id,\n      },\n      accessToken,\n      refreshToken,\n      message: RESPONSE_MESSAGES.USERS.SIGNED_IN,\n    });\n  } catch (error) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({\n      success: false,\n      message: error.message,\n    });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "openGoogleAuthWindow",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 103,
+      "line_end": 114,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "openGoogleAuthWindow = (req, res, next) => {\n  const googleAuthUrl = 'https://accounts.google.com/o/oauth2/v2/auth?';\n  const params = new URLSearchParams({\n    client_id: process.env.GAUTH_CLIENT_ID,\n    redirect_uri: process.env.REDIRECTION_URL,\n    state: 'google-auth-provider',\n    scope: 'profile email',\n    response_type: 'code',\n  });\n\n  res.redirect(googleAuthUrl + params.toString());\n}",
+      "display_name": null
+    },
+    {
+      "name": "signUpWithGoogle",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 117,
+      "line_end": 177,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "signUpWithGoogle = async (req, res, next) => {\n  const code = req.query.code;\n  if (!code) {\n    res.status(HTTP_STATUS.BAD_REQUEST).json({\n      success: false,\n      message: RESPONSE_MESSAGES.USERS.CODE_NOT_FOUND,\n    });\n  }\n  const tokenUrl = process.env.GAUTH_TOKEN_URL;\n  try {\n    const tokenResponse = await axios.post(\n      tokenUrl,\n      {\n        client_id: process.env.GAUTH_CLIENT_ID,\n        client_secret: process.env.GAUTH_CLIENT_SECRET,\n        code,\n        redirect_uri: process.env.REDIRECTION_URL,\n        grant_type: 'authorization_code',\n      },\n      {\n        headers: { Accept: 'application/json' },\n      }\n    );\n    const userInfo = await axios.get(process.env.GAUTH_USER_URL, {\n      headers: { Authorization: `Bearer ${tokenResponse.data.access_token}` },\n    });\n    const { email, name } = userInfo.data;\n    const isUserAlreadyExists = await User.findOne({ email });\n    if (isUserAlreadyExists) {\n      throw new Error(RESPONSE_MESSAGES.USERS.EMAIL_ALREADY_IN_USE);\n    }\n    const newUser = await User.create({\n      name,\n      email,\n    });\n    const payload = { name, _id: newUser._id };\n    const accessToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.ACCESS_TOKEN_EXPIRES_IN,\n    });\n    const refreshToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.REFRESH_TOKEN_EXPIRES_IN,\n    });\n    res.cookie('access_token', accessToken, accessCookieOptions);\n    res.cookie('refresh_token', refreshToken, refreshCookieOptions);\n    res.status(HTTP_STATUS.OK).json({\n      success: true,\n      message: RESPONSE_MESSAGES.USERS.SIGNED_UP,\n      user: {\n        name: name,\n        id: newUser._id,\n      },\n      accessToken,\n      refreshToken,\n    });\n  } catch (error) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({\n      success: false,\n      message: error.message,\n    });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "signInWithGoogle",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 180,
+      "line_end": 237,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "signInWithGoogle = async (req, res, next) => {\n  const code = req.query.code;\n  if (!code) {\n    res.status(HTTP_STATUS.BAD_REQUEST).json({\n      success: false,\n      message: RESPONSE_MESSAGES.USERS.CODE_NOT_FOUND,\n    });\n  }\n  const tokenUrl = process.env.GAUTH_TOKEN_URL;\n  try {\n    const tokenResponse = await axios.post(\n      tokenUrl,\n      {\n        client_id: process.env.GAUTH_CLIENT_ID,\n        client_secret: process.env.GAUTH_CLIENT_SECRET,\n        code,\n        redirect_uri: process.env.REDIRECTION_URL,\n        grant_type: 'authorization_code',\n      },\n      {\n        headers: { Accept: 'application/json' },\n      }\n    );\n    const userInfo = await axios.get(process.env.GAUTH_USER_URL, {\n      headers: { Authorization: `Bearer ${tokenResponse.data.access_token}` },\n    });\n    const { email, name } = userInfo.data;\n    const isUserExists = await User.findOne({ email });\n    if (!isUserExists) {\n      throw new Error(RESPONSE_MESSAGES.USERS.USER_NOT_EXISTS);\n    }\n    const payload = { name, _id: isUserExists._id };\n    const accessToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.ACCESS_TOKEN_EXPIRES_IN,\n    });\n    const refreshToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.REFRESH_TOKEN_EXPIRES_IN,\n    });\n    res.cookie('access_token', accessToken, accessCookieOptions);\n    res.cookie('refresh_token', refreshToken, refreshCookieOptions);\n\n    res.status(HTTP_STATUS.OK).json({\n      success: true,\n      message: RESPONSE_MESSAGES.USERS.SIGNED_IN,\n      user: {\n        name: name,\n        id: isUserExists._id,\n      },\n      accessToken,\n      refreshToken,\n    });\n  } catch (error) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({\n      success: false,\n      message: error.message,\n    });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "openGithubAuthWindow",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 241,
+      "line_end": 252,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "openGithubAuthWindow = (req, res, next) => {\n  const githubAuthUrl = 'https://github.com/login/oauth/authorize?';\n  const params = new URLSearchParams({\n    client_id: process.env.GITHUB_CLIENT_ID,\n    redirect_uri: process.env.REDIRECTION_URL,\n    state: 'github-auth-provider',\n    scope: 'user:read user:email',\n    response_type: 'code',\n  });\n\n  res.redirect(githubAuthUrl + params.toString());\n}",
+      "display_name": null
+    },
+    {
+      "name": "signUpWithGithub",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 255,
+      "line_end": 317,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "signUpWithGithub = async (req, res, next) => {\n  const code = req.query.code;\n  if (!code) {\n    res.status(HTTP_STATUS.BAD_REQUEST).json({\n      success: false,\n      message: RESPONSE_MESSAGES.USERS.CODE_NOT_FOUND,\n    });\n  }\n  const tokenUrl = process.env.GITHUB_TOKEN_URL;\n  try {\n    const tokenResponse = await axios.post(\n      tokenUrl,\n      {\n        client_id: process.env.GITHUB_CLIENT_ID,\n        client_secret: process.env.GITHUB_CLIENT_SECRET,\n        code,\n      },\n      {\n        headers: { Accept: 'application/json' },\n      }\n    );\n    const userInfo = await axios.get(process.env.GITHUB_USER_URL, {\n      headers: { Authorization: `Bearer ${tokenResponse.data.access_token}` },\n    });\n    if (userInfo.data.email == null) {\n      throw new Error(\"Your github account's email is not publically available.\");\n    }\n    const { name, email } = userInfo.data;\n    const isUserAlreadyExists = await User.findOne({ email });\n    if (isUserAlreadyExists) {\n      throw new Error(RESPONSE_MESSAGES.USERS.EMAIL_ALREADY_IN_USE);\n    }\n    const newUser = await User.create({\n      name,\n      email,\n    });\n    const payload = { name, _id: newUser._id };\n    const accessToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.ACCESS_TOKEN_EXPIRES_IN,\n    });\n    const refreshToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.REFRESH_TOKEN_EXPIRES_IN,\n    });\n    res.cookie('access_token', accessToken, accessCookieOptions);\n    res.cookie('refresh_token', refreshToken, refreshCookieOptions);\n\n    res.status(HTTP_STATUS.OK).json({\n      success: true,\n      message: RESPONSE_MESSAGES.USERS.SIGNED_UP,\n      user: {\n        name,\n        id: newUser._id,\n      },\n      accessToken,\n      refreshToken,\n    });\n  } catch (error) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({\n      success: false,\n      message: error.message,\n    });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "signInWithGithub",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 320,
+      "line_end": 375,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "signInWithGithub = async (req, res, next) => {\n  const code = req.query.code;\n  if (!code) {\n    res.status(HTTP_STATUS.BAD_REQUEST).json({\n      success: false,\n      message: RESPONSE_MESSAGES.USERS.CODE_NOT_FOUND,\n    });\n  }\n  const tokenUrl = process.env.GITHUB_TOKEN_URL;\n  try {\n    const tokenResponse = await axios.post(\n      tokenUrl,\n      {\n        client_id: process.env.GITHUB_CLIENT_ID,\n        client_secret: process.env.GITHUB_CLIENT_SECRET,\n        code,\n      },\n      {\n        headers: { Accept: 'application/json' },\n      }\n    );\n    const userInfo = await axios.get(process.env.GITHUB_USER_URL, {\n      headers: { Authorization: `Bearer ${tokenResponse.data.access_token}` },\n    });\n    const { name, email } = userInfo.data;\n    const isUserExists = await User.findOne({ email });\n    if (!isUserExists) {\n      throw new Error(RESPONSE_MESSAGES.USERS.USER_NOT_EXISTS);\n    }\n    const payload = { name, _id: isUserExists._id };\n    const accessToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.ACCESS_TOKEN_EXPIRES_IN,\n    });\n    const refreshToken = sign(payload, process.env.JWT_SECRET, {\n      expiresIn: process.env.REFRESH_TOKEN_EXPIRES_IN,\n    });\n    res.cookie('access_token', accessToken, accessCookieOptions);\n    res.cookie('refresh_token', refreshToken, refreshCookieOptions);\n\n    res.status(HTTP_STATUS.OK).json({\n      success: true,\n      message: RESPONSE_MESSAGES.USERS.SIGNED_IN,\n      user: {\n        name,\n        id: isUserExists._id,\n      },\n      accessToken,\n      refreshToken,\n    });\n  } catch (error) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({\n      success: false,\n      message: error.message,\n    });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "signOutUser",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js",
+      "line_start": 378,
+      "line_end": 390,
+      "parameters": [
+        "req",
+        "res",
+        "next"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "signOutUser = async (req, res, next) => {\n  try {\n    res.cookie('access_token', '', { maxAge: 1 });\n    res.cookie('refresh_token', '', { maxAge: 1 });\n\n    res.status(200).json({ success: true, message: RESPONSE_MESSAGES.USERS.SIGNED_OUT });\n  } catch (error) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({\n      success: false,\n      message: error.message,\n    });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "createPostHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 8,
+      "line_end": 61,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "createPostHandler = async (req, res) => {\n  try {\n    const {\n      title,\n      authorName,\n      imageLink,\n      categories,\n      description,\n      isFeaturedPost = false,\n    } = req.body;\n\n    // Validation - check if all fields are filled\n    if (!title || !authorName || !imageLink || !description || !categories) {\n      return res\n        .status(HTTP_STATUS.BAD_REQUEST)\n        .json({ message: RESPONSE_MESSAGES.COMMON.REQUIRED_FIELDS });\n    }\n\n    // Validation - check if imageLink is a valid URL\n    const imageLinkRegex = /\\.(jpg|jpeg|png|webp)$/i;\n    if (!imageLinkRegex.test(imageLink)) {\n      return res\n        .status(HTTP_STATUS.BAD_REQUEST)\n        .json({ message: RESPONSE_MESSAGES.POSTS.INVALID_IMAGE_URL });\n    }\n\n    // Validation - check if categories array has more than 3 items\n    if (categories.length > 3) {\n      return res\n        .status(HTTP_STATUS.BAD_REQUEST)\n        .json({ message: RESPONSE_MESSAGES.POSTS.MAX_CATEGORIES });\n    }\n\n    const post = new Post({\n      title,\n      authorName,\n      imageLink,\n      description,\n      categories,\n      isFeaturedPost,\n    });\n\n    const [savedPost] = await Promise.all([\n      post.save(), // Save the post\n      deleteDataFromCache(REDIS_KEYS.ALL_POSTS), // Invalidate cache for all posts\n      deleteDataFromCache(REDIS_KEYS.FEATURED_POSTS), // Invalidate cache for featured posts\n      deleteDataFromCache(REDIS_KEYS.LATEST_POSTS), // Invalidate cache for latest posts\n    ]);\n\n    res.status(HTTP_STATUS.OK).json(savedPost);\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "getAllPostsHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 63,
+      "line_end": 71,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "getAllPostsHandler = async (req, res) => {\n  try {\n    const posts = await Post.find();\n    await storeDataInCache(REDIS_KEYS.ALL_POSTS, posts);\n    return res.status(HTTP_STATUS.OK).json(posts);\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "getFeaturedPostsHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 73,
+      "line_end": 81,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "getFeaturedPostsHandler = async (req, res) => {\n  try {\n    const featuredPosts = await Post.find({ isFeaturedPost: true });\n    await storeDataInCache(REDIS_KEYS.FEATURED_POSTS, featuredPosts);\n    res.status(HTTP_STATUS.OK).json(featuredPosts);\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "getPostByCategoryHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 83,
+      "line_end": 98,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "getPostByCategoryHandler = async (req, res) => {\n  const category = req.params.category;\n  try {\n    // Validation - check if category is valid\n    if (!validCategories.includes(category)) {\n      return res\n        .status(HTTP_STATUS.BAD_REQUEST)\n        .json({ message: RESPONSE_MESSAGES.POSTS.INVALID_CATEGORY });\n    }\n\n    const categoryPosts = await Post.find({ categories: category });\n    res.status(HTTP_STATUS.OK).json(categoryPosts);\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "getLatestPostsHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 100,
+      "line_end": 108,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "getLatestPostsHandler = async (req, res) => {\n  try {\n    const latestPosts = await Post.find().sort({ timeOfPost: -1 });\n    await storeDataInCache(REDIS_KEYS.LATEST_POSTS, latestPosts);\n    res.status(HTTP_STATUS.OK).json(latestPosts);\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "getPostByIdHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 110,
+      "line_end": 123,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "getPostByIdHandler = async (req, res) => {\n  try {\n    const post = await Post.findById(req.params.id);\n\n    // Validation - check if post exists\n    if (!post) {\n      return res.status(HTTP_STATUS.NOT_FOUND).json({ message: RESPONSE_MESSAGES.POSTS.NOT_FOUND });\n    }\n\n    res.status(HTTP_STATUS.OK).json(post);\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "updatePostHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 125,
+      "line_end": 140,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "updatePostHandler = async (req, res) => {\n  try {\n    const updatedPost = await Post.findByIdAndUpdate(req.params.id, req.body, {\n      new: true,\n    });\n\n    // Validation - check if post exists\n    if (!updatedPost) {\n      return res.status(HTTP_STATUS.NOT_FOUND).json({ message: RESPONSE_MESSAGES.POSTS.NOT_FOUND });\n    }\n\n    res.status(HTTP_STATUS.OK).json(updatedPost);\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "deletePostByIdHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js",
+      "line_start": 142,
+      "line_end": 155,
+      "parameters": [
+        "req",
+        "res"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "deletePostByIdHandler = async (req, res) => {\n  try {\n    const post = await Post.findByIdAndDelete(req.params.id);\n\n    // Validation - check if post exists\n    if (!post) {\n      return res.status(HTTP_STATUS.NOT_FOUND).json({ message: RESPONSE_MESSAGES.POSTS.NOT_FOUND });\n    }\n\n    res.status(HTTP_STATUS.OK).json({ message: RESPONSE_MESSAGES.POSTS.DELETED });\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "connectToRedis",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js",
+      "line_start": 6,
+      "line_end": 20,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "async function connectToRedis() {\n  try {\n    if (REDIS_URL) {\n      redis = await createClient({\n        url: REDIS_URL,\n        disableOfflineQueue: true,\n      }).connect();\n      console.log('Redis Connected: ' + REDIS_URL);\n    } else {\n      console.log('Redis not configured, cache disabled.');\n    }\n  } catch (error) {\n    console.error('Error connecting to Redis:', error.message);\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "getRedisClient",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js",
+      "line_start": 22,
+      "line_end": 24,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function getRedisClient() {\n  return redis;\n}",
+      "display_name": null
+    },
+    {
+      "name": "createPostObject",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/tests/utils/helper-objects.js",
+      "line_start": 8,
+      "line_end": 18,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "createPostObject = (options = {}) => {\n  return {\n    title: options.title || 'Test Post',\n    authorName: options.authorName || 'Test Author',\n    imageLink: options.imageLink || 'https://www.forTestingPurposeOnly/my-image.jpg',\n    categories: options.categories || [validCategories[0]],\n    description: options.description || 'This is a test post.',\n    isFeaturedPost: options.isFeaturedPost || false,\n    ...options,\n  };\n}",
+      "display_name": null
+    },
+    {
+      "name": "createRequestObject",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/tests/utils/helper-objects.js",
+      "line_start": 20,
+      "line_end": 25,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "createRequestObject = (options = {}) => {\n  return {\n    body: options.body || {},\n    params: options.params || {},\n  };\n}",
+      "display_name": null
+    },
+    {
+      "name": "isRedisEnabled",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+      "line_start": 5,
+      "line_end": 7,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function isRedisEnabled() {\n  return getRedisClient() !== null;\n}",
+      "display_name": null
+    },
+    {
+      "name": "retrieveDataFromCache",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+      "line_start": 9,
+      "line_end": 18,
+      "parameters": [
+        "key"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "async function retrieveDataFromCache(key) {\n  if (!isRedisEnabled()) return null; // Skip cache if Redis is not available\n\n  const cacheKey = `${REDIS_PREFIX}:${key}`;\n  const cachedData = await getRedisClient().get(cacheKey);\n  if (cachedData) {\n    return JSON.parse(cachedData);\n  }\n  return null;\n}",
+      "display_name": null
+    },
+    {
+      "name": "storeDataInCache",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+      "line_start": 20,
+      "line_end": 25,
+      "parameters": [
+        "key",
+        "data"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "async function storeDataInCache(key, data) {\n  if (!isRedisEnabled()) return; // Skip cache if Redis is not available\n\n  const cacheKey = `${REDIS_PREFIX}:${key}`;\n  await getRedisClient().set(cacheKey, JSON.stringify(data));\n}",
+      "display_name": null
+    },
+    {
+      "name": "deleteDataFromCache",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js",
+      "line_start": 27,
+      "line_end": 32,
+      "parameters": [
+        "key"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "async function deleteDataFromCache(key) {\n  if (!isRedisEnabled()) return; // Skip cache if Redis is not available\n\n  const cacheKey = `${REDIS_PREFIX}:${key}`;\n  await getRedisClient().del(cacheKey);\n}",
+      "display_name": null
+    },
+    {
+      "name": "cacheHandler",
+      "file_path": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js",
+      "line_start": 4,
+      "line_end": 15,
+      "parameters": [
+        "key"
+      ],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "cacheHandler = (key) => async (req, res, next) => {\n  try {\n    const cachedData = await retrieveDataFromCache(key);\n    if (cachedData) {\n      console.log(`Getting cached data for key: ${key}`);\n      return res.status(HTTP_STATUS.OK).json(cachedData);\n    }\n    next(); // Proceed to the route handler if data is not cached\n  } catch (err) {\n    res.status(HTTP_STATUS.INTERNAL_SERVER_ERROR).json({ message: err.message });\n  }\n}",
+      "display_name": null
+    },
+    {
+      "name": "onClick",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/blog-feed.tsx",
+      "line_start": 81,
+      "line_end": 82,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "onClick={() =>\n                    setSelectedCategory(selectedCategory === category ? 'featured' : category)",
+      "display_name": null
+    },
+    {
+      "name": "getSelectedColor",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/category-pill.tsx",
+      "line_start": 16,
+      "line_end": 18,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "getSelectedColor = (selected: boolean): string => {\n    return selected ? selectedColor : defaultColor;\n  }",
+      "display_name": null
+    },
+    {
+      "name": "FeaturedPostCard",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx",
+      "line_start": 8,
+      "line_end": 16,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function FeaturedPostCard({\n  post,\n  testId = 'featuredPostCard',\n}: { post: Post } & TestProps) {\n  const navigate = useNavigate();\n  const slug = createSlug(post.title);\n  return (\n    <div\n      className={`active:scale-click group flex h-auto cursor-pointer flex-col gap-2 rounded-lg bg-light dark:bg-dark-card sm:h-48 sm:flex-row`}",
+      "display_name": null
+    },
+    {
+      "name": "onClick",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx",
+      "line_start": 17,
+      "line_end": 17,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "onClick={() => navigate(`/details-page/${slug}/${post._id}`, { state: { post } })",
+      "display_name": null
+    },
+    {
+      "name": "hero",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/hero.tsx",
+      "line_start": 1,
+      "line_end": 12,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function hero() {\n  return (\n    <div className=\"mb-8 flex max-w-3xl flex-1 flex-col justify-end text-slate-50\">\n      <h1 className=\"cursor-text text-xl font-bold md:text-4xl\">Journey Beyond Horizons</h1>\n      <p className=\"my-4 cursor-text text-base md:text-lg\">\n        Dive into the world of travel with stories that transport you to far-off lands. Adventure\n        awaits around every corner. It's time to explore the world!\n      </p>\n      <div className=\"cursor-text text-sm font-semibold md:text-xl\">Let's go!</div>\n    </div>\n  );\n}",
+      "display_name": null
+    },
+    {
+      "name": "onClick",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/modal.tsx",
+      "line_start": 77,
+      "line_end": 79,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "\"active:scale-click mt-3 inline-flex w-full justify-center rounded-md bg-light px-3 py-2 text-sm font-semibold text-light-primary shadow-sm ring-1 ring-inset ring-slate-300 hover:bg-slate-200 dark:bg-dark dark:text-dark-primary dark:hover:bg-dark-secondary/25 sm:mt-0 sm:w-auto\"\n                    onClick={() => {\n                      setModal(false);\n                    }",
+      "display_name": null
+    },
+    {
+      "name": "PostCard",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/post-card.tsx",
+      "line_start": 8,
+      "line_end": 13,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function PostCard({ post, testId = 'postcard' }: { post: Post } & TestProps) {\n  const navigate = useNavigate();\n  const slug = createSlug(post.title);\n  return (\n    <div\n      className={`active:scale-click group w-full md:w-1/2 lg:w-1/3 xl:w-1/4`}",
+      "display_name": null
+    },
+    {
+      "name": "ScrollToTop",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/scroll-to-top.tsx",
+      "line_start": 4,
+      "line_end": 12,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function ScrollToTop() {\n  const { pathname } = useLocation();\n\n  useEffect(() => {\n    window.scrollTo(0, 0);\n  }, [pathname]);\n\n  return null;\n}",
+      "display_name": null
+    },
+    {
+      "name": "PostCardSkeleton",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/skeletons/post-card-skeleton.tsx",
+      "line_start": 3,
+      "line_end": 24,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "PostCardSkeleton = () => {\n  return (\n    <div className=\"w-full md:w-1/2 lg:w-1/3 xl:w-1/4\" data-testid=\"postcardskeleton\">\n      <div className=\"mb-4 mr-8 mt-4 rounded-lg bg-light shadow-md dark:bg-dark-card\">\n        <Skeleton className=\"h-48 w-full rounded-lg bg-slate-200 dark:bg-slate-700\" />\n        <div className=\"p-4\">\n          <Skeleton className=\"mb-2 h-3 w-full bg-slate-200 dark:bg-slate-700 sm:w-2/3\" />\n          <Skeleton className=\"mb-2 h-6 w-full bg-slate-200 dark:bg-slate-700 sm:w-4/5\" />\n          <Skeleton className=\"h-16 w-full bg-slate-200 dark:bg-slate-700 sm:w-11/12\" />\n          <div className=\"mt-2 flex flex-wrap gap-2\">\n            <Skeleton\n              className={`h-6 w-full rounded-full sm:w-16 ${'sm:mr-8 sm:mt-4'} bg-slate-200 dark:bg-slate-700 sm:mb-4`}\n            />\n            <Skeleton\n              className={`h-6 w-full rounded-full sm:w-16 ${'sm:mr-8 sm:mt-4'} bg-slate-200 dark:bg-slate-700 sm:mb-4`}\n            />\n          </div>\n        </div>\n      </div>\n    </div>\n  );\n}",
+      "display_name": null
+    },
+    {
+      "name": "ThemeToggle",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx",
+      "line_start": 4,
+      "line_end": 45,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function ThemeToggle() {\n  const [isDarkTheme, setIsDarkTheme] = useState<boolean | null>(null);\n  const toggleTheme = () => {\n    setIsDarkTheme((prevTheme) => (prevTheme === null ? true : !prevTheme));\n  };\n  useLayoutEffect(() => {\n    const storedTheme = localStorage.getItem('theme');\n    const prefersDark = window.matchMedia?.('(prefers-color-scheme: dark)').matches;\n    setIsDarkTheme(storedTheme === 'dark' || (!storedTheme && prefersDark) || null);\n    if (storedTheme === 'dark' || (!storedTheme && prefersDark)) {\n      document.documentElement.classList.add('dark');\n    }\n  }, []);\n\n  useLayoutEffect(() => {\n    if (isDarkTheme !== null) {\n      document.documentElement.classList.toggle('dark', isDarkTheme);\n\n      localStorage.setItem('theme', isDarkTheme ? 'dark' : 'light');\n    }\n  }, [isDarkTheme]);\n  return (\n    <div>\n      <button\n        className={`${\n          isDarkTheme ? 'bg-dark-theme-background' : 'bg-light-theme-background'\n        } flex h-8 w-16 cursor-pointer items-center justify-start rounded-full px-1 py-1`}\n        onClick={toggleTheme}\n      >\n        <div\n          className={` ${\n            isDarkTheme\n              ? 'translate-x-8 bg-dark-theme-foreground'\n              : 'translate-x-0 bg-light-theme-foreground'\n          } h-6 w-6 rounded-full bg-black px-1 py-1 duration-300`}\n        >\n          <img src={`${isDarkTheme ? Moon : Sun}`} />\n        </div>\n      </button>\n    </div>\n  );\n}",
+      "display_name": null
+    },
+    {
+      "name": "toggleTheme",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx",
+      "line_start": 6,
+      "line_end": 8,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "toggleTheme = () => {\n    setIsDarkTheme((prevTheme) => (prevTheme === null ? true : !prevTheme));\n  }",
+      "display_name": null
+    },
+    {
+      "name": "Skeleton",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/components/ui/skeleton.tsx",
+      "line_start": 3,
+      "line_end": 4,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function Skeleton({ className, ...props }: React.HTMLAttributes<HTMLDivElement>) {\n  return <div className={cn('bg-muted animate-pulse rounded-md', className)} {...props}",
+      "display_name": null
+    },
+    {
+      "name": "footer",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/footer-layout.tsx",
+      "line_start": 1,
+      "line_end": 14,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function footer() {\n  const newDate = new Date();\n  const year = newDate.getFullYear();\n\n  return (\n    <footer className=\"flex min-h-[6vh] flex-col items-center bg-zinc-900 py-2 text-center text-white sm:flex-row sm:justify-between sm:py-3\">\n      <section className=\"text-base sm:pl-4 md:pl-8 lg:pl-16\">WanderLust</section>\n      <section className=\"text-base sm:pr-4 md:pr-16 lg:pr-24\">\n        <span className=\"mr-2\">&copy;</span>\n        {year} All Rights Reserved\n      </section>\n    </footer>\n  );\n}",
+      "display_name": null
+    },
+    {
+      "name": "onClick",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/header-layout.tsx",
+      "line_start": 30,
+      "line_end": 32,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "\"px-2 py-2 hover:bg-slate-500/25 md:hidden\"\n              onClick={() => {\n                navigate('/add-blog');\n              }",
+      "display_name": null
+    },
+    {
+      "name": "cn",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/lib/utils.ts",
+      "line_start": 4,
+      "line_end": 6,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function cn(...inputs: ClassValue[]) {\n  return twMerge(clsx(inputs));\n}",
+      "display_name": null
+    },
+    {
+      "name": "handleImageSelect",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 23,
+      "line_end": 25,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "handleImageSelect = (imageUrl: string) => {\n    setSelectedImage(imageUrl);\n  }",
+      "display_name": null
+    },
+    {
+      "name": "isValidCategory",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 38,
+      "line_end": 40,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "isValidCategory = (category: string): boolean => {\n    return formData.categories.length >= 3 && !formData.categories.includes(category);\n  }",
+      "display_name": null
+    },
+    {
+      "name": "handleInputChange",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 42,
+      "line_end": 45,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "handleInputChange = (e: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {\n    const { name, value } = e.target;\n    setFormData({ ...formData, [name]: value });\n  }",
+      "display_name": null
+    },
+    {
+      "name": "handleCategoryClick",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 47,
+      "line_end": 61,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "handleCategoryClick = (category: string) => {\n    if (isValidCategory(category)) return;\n\n    if (formData.categories.includes(category)) {\n      setFormData({\n        ...formData,\n        categories: formData.categories.filter((cat) => cat !== category),\n      });\n    } else {\n      setFormData({\n        ...formData,\n        categories: [...formData.categories, category],\n      });\n    }\n  }",
+      "display_name": null
+    },
+    {
+      "name": "handleselector",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 63,
+      "line_end": 69,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "handleselector = () => {\n    setFormData({\n      ...formData,\n      imageLink: selectedImage,\n    });\n    setmodal(false);\n  }",
+      "display_name": null
+    },
+    {
+      "name": "handleCheckboxChange",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 70,
+      "line_end": 72,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "handleCheckboxChange = () => {\n    setFormData({ ...formData, isFeaturedPost: !formData.isFeaturedPost });\n  }",
+      "display_name": null
+    },
+    {
+      "name": "validateFormData",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 73,
+      "line_end": 95,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "validateFormData = () => {\n    if (\n      !formData.title ||\n      !formData.authorName ||\n      !formData.imageLink ||\n      !formData.description ||\n      formData.categories.length === 0\n    ) {\n      toast.error('All fields must be filled out.');\n      return false;\n    }\n    const imageLinkRegex = /\\.(jpg|jpeg|png|webp)$/i;\n    if (!imageLinkRegex.test(formData.imageLink)) {\n      toast.error('Image URL must end with .jpg, .jpeg, .webp or .png');\n      return false;\n    }\n    if (formData.categories.length > 3) {\n      toast.error('Select up to three categories.');\n      return false;\n    }\n\n    return true;\n  }",
+      "display_name": null
+    },
+    {
+      "name": "handleSubmit",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 96,
+      "line_end": 112,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "handleSubmit = async (e: FormEvent<HTMLFormElement>) => {\n    e.preventDefault();\n    if (validateFormData()) {\n      try {\n        const response = await axios.post(import.meta.env.VITE_API_PATH + '/api/posts/', formData);\n\n        if (response.status === 200) {\n          toast.success('Blog post successfully created!');\n          navigate('/');\n        } else {\n          toast.error('Error: ' + response.data.message);\n        }\n      } catch (err: any) {\n        toast.error('Error: ' + err.message);\n      }\n    }\n  }",
+      "display_name": null
+    },
+    {
+      "name": "Asterisk",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 120,
+      "line_end": 122,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function Asterisk() {\n    return <span className=\"dark:text-dark-tertiary\">*</span>;\n  }",
+      "display_name": null
+    },
+    {
+      "name": "onClick",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx",
+      "line_start": 221,
+      "line_end": 223,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "\"lg:text-md active:scale-click w-1/4 rounded-lg bg-light-primary text-xs text-slate-50 hover:bg-light-primary/80 dark:bg-dark-primary dark:text-dark-card dark:hover:bg-dark-secondary/80 md:text-sm lg:w-2/12 lg:px-4 lg:py-3\"\n              onClick={() => {\n                setmodal(true);\n              }",
+      "display_name": null
+    },
+    {
+      "name": "getPostById",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx",
+      "line_start": 17,
+      "line_end": 27,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "getPostById = async () => {\n      try {\n        await axios.get(import.meta.env.VITE_API_PATH + `/api/posts/${postId}`).then((response) => {\n          console.log(response.data);\n          setIsLoading(false);\n          setPost(response.data);\n        });\n      } catch (error) {\n        console.log(error);\n      }\n    }",
+      "display_name": null
+    },
+    {
+      "name": "onSubmit",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signin-page.tsx",
+      "line_start": 21,
+      "line_end": 32,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "onSubmit = async (data: FieldValues) => {\n    if (data.email === 'abc@gamil.com') {\n      toast.error('Submitting form is failed');\n      return;\n    }\n\n    // TODO: Server-side validation\n    await new Promise((resolve) => setTimeout(resolve, 1000));\n\n    reset();\n    navigate('/');\n  }",
+      "display_name": null
+    },
+    {
+      "name": "onSubmit",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signup-page.tsx",
+      "line_start": 21,
+      "line_end": 32,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "onSubmit = async (data: FieldValues) => {\n    if (data.email === 'abc@gamil.com') {\n      toast.error('Submitting form is failed');\n      return;\n    }\n\n    // TODO: Server-side validation\n    await new Promise((resolve) => setTimeout(resolve, 1000));\n\n    reset();\n    navigate('/');\n  }",
+      "display_name": null
+    },
+    {
+      "name": "getCategoryColors",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/category-colors.ts",
+      "line_start": 14,
+      "line_end": 17,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function getCategoryColors(category: string): [string, string] {\n  const colorTuple: [string, string] | undefined = categoryColors.get(category);\n  return colorTuple ?? ['bg-cyan-200 dark:bg-cyan-900', 'bg-cyan-500/80'];\n}",
+      "display_name": null
+    },
+    {
+      "name": "formatPostTime",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/format-post-time.tsx",
+      "line_start": 1,
+      "line_end": 8,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function formatPostTime(time: string) {\n  const options: Intl.DateTimeFormatOptions = {\n    year: 'numeric',\n    month: 'long',\n    day: 'numeric',\n  };\n  return new Date(time).toLocaleDateString('en-US', options);\n}",
+      "display_name": null
+    },
+    {
+      "name": "createSlug",
+      "file_path": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts",
+      "line_start": 1,
+      "line_end": 6,
+      "parameters": [],
+      "docstring": null,
+      "is_method": false,
+      "class_name": null,
+      "code_snippet": "function createSlug(title: string): string {\n  return title\n    .toLowerCase()\n    .replace(/\\s+/g, '-')\n    .replace(/[^\\w-]+/g, '');\n}",
+      "display_name": null
+    }
+  ],
+  "relationships": [
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/config/db.js:connectDB",
+      "callee": "connect",
+      "call_line": 5,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/config/db.js:connectDB",
+      "callee": "error",
+      "call_line": 7,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/config/db.js:connectDB",
+      "callee": "exit",
+      "call_line": 8,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/config/db.js:connectDB",
+      "callee": "once",
+      "call_line": 13,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/config/db.js:connectDB",
+      "callee": "log",
+      "call_line": 14,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/config/db.js:connectDB",
+      "callee": "on",
+      "call_line": 17,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+      "callee": "findOne",
+      "call_line": 18,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+      "callee": "hash",
+      "call_line": 22,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+      "callee": "create",
+      "call_line": 23,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+      "callee": "sign",
+      "call_line": 24,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+      "callee": "cookie",
+      "call_line": 30,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+      "callee": "json",
+      "call_line": 32,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithEmail",
+      "callee": "status",
+      "call_line": 32,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithEmail",
+      "callee": "findOne",
+      "call_line": 57,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithEmail",
+      "callee": "compareSync",
+      "call_line": 63,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithEmail",
+      "callee": "sign",
+      "call_line": 64,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithEmail",
+      "callee": "cookie",
+      "call_line": 78,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithEmail",
+      "callee": "json",
+      "call_line": 83,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithEmail",
+      "callee": "status",
+      "call_line": 83,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:openGoogleAuthWindow",
+      "callee": "redirect",
+      "call_line": 113,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:openGoogleAuthWindow",
+      "callee": "toString",
+      "call_line": 113,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "json",
+      "call_line": 120,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "status",
+      "call_line": 120,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "post",
+      "call_line": 127,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "get",
+      "call_line": 140,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "findOne",
+      "call_line": 144,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "create",
+      "call_line": 148,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "sign",
+      "call_line": 153,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGoogle",
+      "callee": "cookie",
+      "call_line": 159,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+      "callee": "json",
+      "call_line": 183,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+      "callee": "status",
+      "call_line": 183,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+      "callee": "post",
+      "call_line": 190,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+      "callee": "get",
+      "call_line": 203,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+      "callee": "findOne",
+      "call_line": 207,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+      "callee": "sign",
+      "call_line": 212,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGoogle",
+      "callee": "cookie",
+      "call_line": 218,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:openGithubAuthWindow",
+      "callee": "redirect",
+      "call_line": 251,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:openGithubAuthWindow",
+      "callee": "toString",
+      "call_line": 251,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "json",
+      "call_line": 258,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "status",
+      "call_line": 258,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "post",
+      "call_line": 265,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "get",
+      "call_line": 276,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "findOne",
+      "call_line": 283,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "create",
+      "call_line": 287,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "sign",
+      "call_line": 292,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signUpWithGithub",
+      "callee": "cookie",
+      "call_line": 298,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+      "callee": "json",
+      "call_line": 323,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+      "callee": "status",
+      "call_line": 323,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+      "callee": "post",
+      "call_line": 330,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+      "callee": "get",
+      "call_line": 341,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+      "callee": "findOne",
+      "call_line": 345,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+      "callee": "sign",
+      "call_line": 350,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signInWithGithub",
+      "callee": "cookie",
+      "call_line": 356,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signOutUser",
+      "callee": "cookie",
+      "call_line": 380,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signOutUser",
+      "callee": "json",
+      "call_line": 383,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/auth-controller.js:signOutUser",
+      "callee": "status",
+      "call_line": 383,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+      "callee": "json",
+      "call_line": 21,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+      "callee": "status",
+      "call_line": 21,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+      "callee": "test",
+      "call_line": 28,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+      "callee": "all",
+      "call_line": 50,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+      "callee": "save",
+      "call_line": 51,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:createPostHandler",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+      "call_line": 52,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getAllPostsHandler",
+      "callee": "find",
+      "call_line": 65,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getAllPostsHandler",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+      "call_line": 66,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getAllPostsHandler",
+      "callee": "json",
+      "call_line": 67,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getAllPostsHandler",
+      "callee": "status",
+      "call_line": 67,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getFeaturedPostsHandler",
+      "callee": "find",
+      "call_line": 75,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getFeaturedPostsHandler",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+      "call_line": 76,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getFeaturedPostsHandler",
+      "callee": "json",
+      "call_line": 77,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getFeaturedPostsHandler",
+      "callee": "status",
+      "call_line": 77,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByCategoryHandler",
+      "callee": "includes",
+      "call_line": 87,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByCategoryHandler",
+      "callee": "json",
+      "call_line": 88,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByCategoryHandler",
+      "callee": "status",
+      "call_line": 88,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByCategoryHandler",
+      "callee": "find",
+      "call_line": 93,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler",
+      "callee": "sort",
+      "call_line": 102,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler",
+      "callee": "find",
+      "call_line": 102,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+      "call_line": 103,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler",
+      "callee": "json",
+      "call_line": 104,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getLatestPostsHandler",
+      "callee": "status",
+      "call_line": 104,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByIdHandler",
+      "callee": "findById",
+      "call_line": 112,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByIdHandler",
+      "callee": "json",
+      "call_line": 116,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:getPostByIdHandler",
+      "callee": "status",
+      "call_line": 116,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:updatePostHandler",
+      "callee": "findByIdAndUpdate",
+      "call_line": 127,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:updatePostHandler",
+      "callee": "json",
+      "call_line": 133,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:updatePostHandler",
+      "callee": "status",
+      "call_line": 133,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:deletePostByIdHandler",
+      "callee": "findByIdAndDelete",
+      "call_line": 144,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:deletePostByIdHandler",
+      "callee": "json",
+      "call_line": 148,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/controllers/posts-controller.js:deletePostByIdHandler",
+      "callee": "status",
+      "call_line": 148,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:connectToRedis",
+      "callee": "connect",
+      "call_line": 9,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:connectToRedis",
+      "callee": "createClient",
+      "call_line": 9,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:connectToRedis",
+      "callee": "log",
+      "call_line": 13,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:connectToRedis",
+      "callee": "error",
+      "call_line": 18,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+      "call_line": 6,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+      "call_line": 10,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+      "callee": "get",
+      "call_line": 13,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+      "call_line": 13,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+      "callee": "parse",
+      "call_line": 15,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+      "call_line": 21,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+      "callee": "set",
+      "call_line": 24,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+      "call_line": 24,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:storeDataInCache",
+      "callee": "stringify",
+      "call_line": 24,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:isRedisEnabled",
+      "call_line": 28,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+      "callee": "del",
+      "call_line": 31,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:deleteDataFromCache",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/services/redis.js:getRedisClient",
+      "call_line": 31,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler",
+      "callee": "/tmp/gitprobe_a1su8qt6/backend/utils/cache-posts.js:retrieveDataFromCache",
+      "call_line": 6,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler",
+      "callee": "log",
+      "call_line": 8,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler",
+      "callee": "json",
+      "call_line": 9,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler",
+      "callee": "status",
+      "call_line": 9,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/backend/utils/middleware.js:cacheHandler",
+      "callee": "next",
+      "call_line": 11,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/blog-feed.tsx:onClick",
+      "callee": "setSelectedCategory",
+      "call_line": 82,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx:FeaturedPostCard",
+      "callee": "useNavigate",
+      "call_line": 12,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx:FeaturedPostCard",
+      "callee": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+      "call_line": 13,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/featured-post-card.tsx:onClick",
+      "callee": "navigate",
+      "call_line": 17,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/modal.tsx:onClick",
+      "callee": "setModal",
+      "call_line": 78,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/post-card.tsx:PostCard",
+      "callee": "useNavigate",
+      "call_line": 9,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/post-card.tsx:PostCard",
+      "callee": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+      "call_line": 10,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/scroll-to-top.tsx:ScrollToTop",
+      "callee": "useLocation",
+      "call_line": 5,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/scroll-to-top.tsx:ScrollToTop",
+      "callee": "useEffect",
+      "call_line": 7,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/scroll-to-top.tsx:ScrollToTop",
+      "callee": "scrollTo",
+      "call_line": 8,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "useState",
+      "call_line": 5,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:toggleTheme",
+      "callee": "setIsDarkTheme",
+      "call_line": 7,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "useLayoutEffect",
+      "call_line": 9,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "getItem",
+      "call_line": 10,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "matchMedia",
+      "call_line": 11,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "setIsDarkTheme",
+      "call_line": 12,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "add",
+      "call_line": 14,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "toggle",
+      "call_line": 20,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/components/theme-toggle-button.tsx:ThemeToggle",
+      "callee": "setItem",
+      "call_line": 22,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/footer-layout.tsx:footer",
+      "callee": "getFullYear",
+      "call_line": 3,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/layouts/header-layout.tsx:onClick",
+      "callee": "navigate",
+      "call_line": 31,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/lib/utils.ts:cn",
+      "callee": "twMerge",
+      "call_line": 5,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/lib/utils.ts:cn",
+      "callee": "clsx",
+      "call_line": 5,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleImageSelect",
+      "callee": "setSelectedImage",
+      "call_line": 24,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:isValidCategory",
+      "callee": "includes",
+      "call_line": 39,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleInputChange",
+      "callee": "setFormData",
+      "call_line": 44,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCategoryClick",
+      "callee": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:isValidCategory",
+      "call_line": 48,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCategoryClick",
+      "callee": "includes",
+      "call_line": 50,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCategoryClick",
+      "callee": "setFormData",
+      "call_line": 51,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCategoryClick",
+      "callee": "filter",
+      "call_line": 53,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleselector",
+      "callee": "setFormData",
+      "call_line": 64,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleselector",
+      "callee": "setmodal",
+      "call_line": 68,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleCheckboxChange",
+      "callee": "setFormData",
+      "call_line": 71,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:validateFormData",
+      "callee": "error",
+      "call_line": 81,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:validateFormData",
+      "callee": "test",
+      "call_line": 85,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+      "callee": "preventDefault",
+      "call_line": 97,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+      "callee": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:validateFormData",
+      "call_line": 98,
+      "is_resolved": true
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+      "callee": "post",
+      "call_line": 100,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+      "callee": "success",
+      "call_line": 103,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+      "callee": "navigate",
+      "call_line": 104,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:handleSubmit",
+      "callee": "error",
+      "call_line": 106,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/add-blog.tsx:onClick",
+      "callee": "setmodal",
+      "call_line": 222,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx:getPostById",
+      "callee": "then",
+      "call_line": 19,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx:getPostById",
+      "callee": "get",
+      "call_line": 19,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx:getPostById",
+      "callee": "log",
+      "call_line": 20,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx:getPostById",
+      "callee": "setIsLoading",
+      "call_line": 21,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/details-page.tsx:getPostById",
+      "callee": "setPost",
+      "call_line": 22,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signin-page.tsx:onSubmit",
+      "callee": "error",
+      "call_line": 23,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signin-page.tsx:onSubmit",
+      "callee": "reset",
+      "call_line": 30,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signin-page.tsx:onSubmit",
+      "callee": "navigate",
+      "call_line": 31,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signup-page.tsx:onSubmit",
+      "callee": "error",
+      "call_line": 23,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signup-page.tsx:onSubmit",
+      "callee": "reset",
+      "call_line": 30,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/pages/signup-page.tsx:onSubmit",
+      "callee": "navigate",
+      "call_line": 31,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/category-colors.ts:getCategoryColors",
+      "callee": "get",
+      "call_line": 15,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/format-post-time.tsx:formatPostTime",
+      "callee": "toLocaleDateString",
+      "call_line": 7,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+      "callee": "replace",
+      "call_line": 2,
+      "is_resolved": false
+    },
+    {
+      "caller": "/tmp/gitprobe_a1su8qt6/frontend/src/utils/slug-generator.ts:createSlug",
+      "callee": "toLowerCase",
+      "call_line": 2,
+      "is_resolved": false
+    }
+  ],
+  "summary": {
+    "total_files": 108,
+    "total_size_kb": 527.3125,
+    "total_functions": 58,
+    "total_calls": 166,
+    "languages_found": [
+      "typescript",
+      "javascript"
+    ],
+    "files_analyzed": 47,
+    "analysis_approach": "relationship_maximizing",
+    "supported_languages": [
+      "python",
+      "javascript",
+      "typescript",
+      "c",
+      "cpp",
+      "go",
+      "rust"
+    ],
+    "unsupported_files": 0,
+    "analysis_type": "full",
+    "languages_analyzed": [
+      "typescript",
+      "javascript"
+    ]
+  }
+}
